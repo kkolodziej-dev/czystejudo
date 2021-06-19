@@ -1,8 +1,8 @@
 let windowSize = window.innerWidth;
-const DOCUMENT_FOLDER_PATH = 'https://kkolodziej-dev.github.io/imcspoland/entities/documents/';
-const DOCUMENT_NAMES = 'documentPicNames.txt'
+// const DOCUMENT_FOLDER_PATH = 'https://kkolodziej-dev.github.io/imcspoland/entities/documents/';
+// const DOCUMENT_NAMES = 'documentPicNames.txt'
 // const DOCUMENT_FOLDER_PATH = './entities/documents/';
-const PHOTO_FOLDER_PATH = 'https://kkolodziej-dev.github.io/imcspoland/entities/gallery/';
+const PHOTO_FOLDER_PATH = 'https://kkolodziej-dev.github.io/czystejudo/entities/gallery/';
 // const PHOTO_FOLDER_PATH = './entities/gallery/';
 const PHOTO_NAMES = 'imageNames.txt'
 
@@ -14,29 +14,6 @@ let currentURL = window.location.href;
 
 let documentListElement = document.getElementById('documentList');
 let galleryContainerElement = document.getElementById('galleryContainer');
-
-// window.addEventListener('resize', () => {
-//     if(!currentURL.includes("gallery.html")) return;
-//     windowSize = window.innerWidth;
-//     console.log(windowSize)
-//     if (windowSize > 736) {
-//         galleryContainerElement.style.flexDirection = 'column';
-//         // galleryContainerElement.childNodes.forEach(element => {
-            
-//         //     // element.className = "col-4";
-//         //     // element.span.img.style.maxHeight = '20vh';
-//         //     // element.span.img.style.maxWidth = '30vh';
-//         // })
-//     } else {
-//         galleryContainerElement.style.flexDirection = 'row';
-//         // galleryContainerElement.childNodes.forEach(element => {
-//         //     // element.style.
-//         //     // element.className = "col-10"
-//         //     // element.style.maxHeight = '30vh';
-//         //     // element.style.maxWidth = '50vh';
-//         // })
-//     }
-// })
 
 document.addEventListener('DOMContentLoaded', async () => {
     //populate elements
