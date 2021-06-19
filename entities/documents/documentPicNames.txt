@@ -1,0 +1,10 @@
+MESKO_logo.png
+ZPS-logo.jpg
+a_logo_IMCS.jpg
+docs
+documentPicNames.txt
+iu-logo.png
+kuhene-logo.png
+pgz-logo.jpg
+wzl-logo.png
+zaklady_mechaniczne_tarnow.png

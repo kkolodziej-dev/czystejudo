@@ -1,0 +1,34 @@
+    [
+    {
+        "picture": "a_logo_IMCS.jpg",
+        "document": "zezwolenie_knf_imcs_2014.pdf"
+    },
+    {
+        "picture": "MESKO_logo.png",
+        "document": "ref_MESKO.pdf"
+    },
+    {
+        "picture": "zaklady_mechaniczne_tarnow.png",
+        "document": "ref_ZMTarnow.pdf"
+    },
+    {
+        "picture": "iu-logo.png",
+        "document": "ref_IU.pdf"
+    },
+    {
+        "picture": "ZPS-logo.jpg",
+        "document": "ref_gamrat.pdf"
+    },
+    {
+        "picture": "kuhene-logo.png",
+        "document": "ref_KN.pdf"
+    },
+    {
+        "picture": "pgz-logo.jpg",
+        "document": "ref_PGZ.pdf"
+    },
+    {
+        "picture": "wzl-logo.png",
+        "document": "ref_WZL.pdf"
+    }
+]
